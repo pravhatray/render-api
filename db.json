@@ -72,24 +72,7 @@
         "age": 45,
         "email": "zseward8@oracle.com"
       }
-    ],"newusers":[
-        {
-            
-            "name": "Gertrudis Tatterton",
-            "age": 18,
-            "email": "gtatterton0@ehow.com"
-          },
-          {
-            
-            "name": "Gail Newbatt",
-            "age": 53,
-            "email": "gnewbatt1@un.org"
-          },
-          {
-            
-            "name": "Walliw Wilstead",
-            "age": 49,
-            "email": "wwilstead2@tripadvisor.com"
-          }
+    ],"new":[
+        
     ]
   }
